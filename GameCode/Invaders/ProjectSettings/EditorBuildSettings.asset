@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Game Scenes/MainMenu_Game.unity
+    guid: 4eab59995874007469adff02375e0510
+  - enabled: 1
+    path: Assets/Scenes/Zone1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Game Scenes/Zone2.unity
+    guid: 56b205b151e804f4b855784dabcd3e7d
+  - enabled: 1
+    path: Assets/Scenes/Game Scenes/Zone3.unity
+    guid: cfb638b3b3b333a4db572375920ca561
+  - enabled: 1
+    path: Assets/Scenes/Game Scenes/Zone4.unity
+    guid: b1e1e76f10aa0704d8c6b3df4d6a9842
+  - enabled: 1
+    path: Assets/Scenes/Game Scenes/Zone5.unity
+    guid: 4a3334e3b9735ab48b421899b693e232
+  - enabled: 1
+    path: Assets/Scenes/Game Scenes/Zone6.unity
+    guid: 8aa3b59ed38110b4b86102abbd6e417a
+  - enabled: 1
+    path: Assets/Scenes/Game Scenes/SurvivalMode.unity
+    guid: 1ca08660eaaa26b41b340a1c3c76585b
+  - enabled: 1
+    path: Assets/Scenes/Life Scenes/TestLifeScene.unity
+    guid: 0c925af12f28ae2478a08c1d99590ed7
+  - enabled: 1
+    path: Assets/Scenes/Life Scenes/2TestLife.unity
+    guid: 48a3705d21898c64ebfc599ceb0d0696
+  m_configObjects: {}
