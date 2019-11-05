@@ -178,7 +178,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 37f89d82dfa1f2a45927d6d84616f7a1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 0.1
+  speed: 0.8
   thrust: 150
   prefab: {fileID: 1980619093477424, guid: 320aa6ff39129f0448c78a90d299e9e5, type: 3}
   blip: {fileID: 2359890584697350977}
@@ -322,7 +322,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 37f89d82dfa1f2a45927d6d84616f7a1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 0.1
+  speed: 0.8
   thrust: 150
   prefab: {fileID: 1980619093477424, guid: 320aa6ff39129f0448c78a90d299e9e5, type: 3}
   blip: {fileID: 1229844159055555351}
